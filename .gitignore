@@ -1,0 +1,10 @@
+.DS_Store
+
+# Packages
+node_modules/
+
+# Hardhat build outputs
+artifacts/
+cache/
+
+.env
